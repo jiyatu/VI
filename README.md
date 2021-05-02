@@ -1,6 +1,6 @@
 # [Value Iteration Networks]in TensorFlow
 
-This is a CNN implementation of the initial VI module that explains the VIN in paper"Additional VIN’s Reinforcement Learning to Enhance Neural Machine Translation".
+The realization of VI module in the paper "A Method to Improve the Model Generalization Ability of Mongolian Neural Machine Translation".
 
 
 ## Dependencies
