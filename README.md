@@ -1,6 +1,6 @@
 # [Value Iteration Networks]in TensorFlow
 
-The realization of VI module in the paper "A Method to Improve the Model Generalization Ability of Mongolian Neural Machine Translation".
+The realization of VI module to improve the generalization ability of Mongolian NMT".
 
 
 ## Dependencies
